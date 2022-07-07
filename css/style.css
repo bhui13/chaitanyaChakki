@@ -46,6 +46,13 @@ a {
     }
 }
 
+.bg {
+    width: 100%;
+    height: 800px;
+    background: url(/images/WhatsApp\ Image\ 2022-06-28\ at\ 11.44.06\ AM.jpeg);
+    background-size: 100% 100%;
+}
+
 .logo a {
     font-size: 24px;
     color: #5c2c2c !important;
@@ -582,4 +589,12 @@ a {
 
 .product_descruptions span i {
     color: #f9a323;
+}
+
+.heading h1 {
+    font-size: 24px;
+    font-family: 'Nunito', sans-serif;
+    color: #000;
+    font-weight: 800;
+    letter-spacing: 1px;
 }
